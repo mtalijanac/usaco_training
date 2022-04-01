@@ -26,7 +26,7 @@ public class gift1 {
         BufferedReader reader = new BufferedReader(new FileReader(inputfile));
         String result = gift(reader);
         BufferedWriter bw = new BufferedWriter(new FileWriter(outputfile));
-        bw.write(result);;
+        bw.write(result);
         bw.close();
         reader.close();
     }
