@@ -78,7 +78,7 @@ public class friday {
         return res;
     }
 
-    void test() throws IOException {
+    void test() {
         String res1 = friday(20);
         String expected1 = "36 33 34 33 35 35 34\n";
         assert expected1.equals(res1) : res1;

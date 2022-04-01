@@ -115,7 +115,7 @@ public class beads {
     }
 
 
-    void test() throws IOException {
+    void test() {
         String testInput1 = "wwwbbrwrbrbrrbrbrwrwwrbwrwrrb";
         int res1 = count(testInput1);
         assert 11 == res1 : res1;
