@@ -11,5 +11,5 @@ I know you can make it good
 
 Do it better, faster, stronger..  
 
-After all, Have fun..
+After all, have fun!!
 
