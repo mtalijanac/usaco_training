@@ -2,8 +2,12 @@
 
 Hi! These are my solutions for [USACO TRAINING](https://train.usaco.org/)
 
-Don't cheat..
+Don't give up 
+You're not beaten yet
 
-Be better..
+Don't give up
+I know you can make it good
 
-Have fun..
+Do it better, faster, stronger..
+
+After all, Have fun..
