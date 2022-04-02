@@ -11,7 +11,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 /**
- * Chapter 1, Section 1.3
+ * Chapter 1, Section 1.4
  * Problem: Prime Cryptarithm
  */
 public class crypt1 {

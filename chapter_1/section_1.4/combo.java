@@ -12,7 +12,7 @@ import java.io.IOException;
 import java.util.HashSet;
 
 /**
- * Chapter 1, Section 1.3
+ * Chapter 1, Section 1.4
  * Problem: Combination Lock
  */
 public class combo {
