@@ -4,21 +4,8 @@ LANG: JAVA
 TASK: milk
 */
 
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.HashSet;
-import java.util.TreeMap;
-import java.util.TreeSet;
-import java.util.concurrent.atomic.AtomicInteger;
-
-import javax.swing.tree.TreeSelectionModel;
+import java.io.*;
+import java.util.*;
 
 /**
  * Chapter 1, Section 1.4
@@ -79,7 +66,6 @@ public class milk {
                 idx++;
                 continue;
             }
-
 
             ammount++;
             ammounts[idx]--;
